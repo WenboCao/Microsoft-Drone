@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="benchmarks/src"/>
+	<classpathentry kind="src" path="benchmarks/test"/>
+	<classpathentry kind="src" path="examples/src"/>
+	<classpathentry kind="src" path="examples/test"/>
+	<classpathentry kind="src" path="experimental/src"/>
+	<classpathentry kind="src" path="experimental/test"/>
+	<classpathentry kind="src" path="generate/src"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="lib" path="lib/junit-4.11.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/orangemr/Documents/workspace/classwork3/GPS_Compression/javacsv.jar"/>
+	<classpathentry kind="lib" path="/Users/orangemr/Documents/workspace/classwork3/GPS_Compression/guava-17.0.jar"/>
+	<classpathentry kind="lib" path="/Users/orangemr/Documents/workspace/classwork3/GPS_Compression/apache-commons-lang.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
